@@ -19,8 +19,8 @@ data = [{"model_id": 1245, "count": 3, "name": "fiat", "color": "pink", "price":
 # response = requests.get(base+"car/"+str(1248))
 # print(response.json())
 
-response = requests.put(base+"car/"+str(1269), data[1])
-print(response.json())
+# response = requests.put(base+"car/"+str(1269), data[1])
+# print(response.json())
 # json
 # response = requests.get(base+"car/"+str(1543))
 # print(response.json())
